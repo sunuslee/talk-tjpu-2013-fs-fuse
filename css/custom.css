@@ -1,0 +1,5 @@
+img[alt="vfs"], img[alt="ls"] {
+    max-height: 600px;
+    min-height: 600px;
+    min-width: 800px;
+}
