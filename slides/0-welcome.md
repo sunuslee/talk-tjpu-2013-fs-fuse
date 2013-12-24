@@ -6,4 +6,4 @@ Fuse (Filesystem in UserSpace)
 
 <p style="margin-top:140px"> 2013-12-23 @ TJPU </p>
 
-Created By: 李啸天(sunus Lee)
+Created By: [@sunusLee](http://weibo.com/sunuslee)
